@@ -2,10 +2,13 @@
 
 A decentralized calculator application built on Ethereum Sepolia testnet. Perform basic arithmetic operations (add, subtract, multiply, divide) directly on the blockchain with a beautiful, modern UI.
 
+🌐 **Live Demo**: [https://ethereum-calculator-ten.vercel.app/](https://ethereum-calculator-ten.vercel.app/)
+
 ![Ethereum Calculator](https://img.shields.io/badge/Ethereum-Sepolia-blue)
 ![Solidity](https://img.shields.io/badge/Solidity-^0.8.28-orange)
 ![React](https://img.shields.io/badge/React-19.2.0-blue)
 ![Hardhat](https://img.shields.io/badge/Hardhat-3.0.16-yellow)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)
 
 ## ✨ Features
 
@@ -182,9 +185,15 @@ npx hardhat test
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 🚀 Live Application
+
+**Production URL**: [https://ethereum-calculator-ten.vercel.app/](https://ethereum-calculator-ten.vercel.app/)
+
+Try it now! Just connect your MetaMask wallet and start calculating on the blockchain.
+
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -193,11 +202,16 @@ This project is licensed under the ISC License.
 - [Tailwind CSS](https://tailwindcss.com/)
 - [MetaMask](https://metamask.io/)
 - [Sepolia Testnet](https://sepolia.etherscan.io/)
+- [Vercel](https://vercel.com/) for hosting
 
 ## 📞 Support
 
 If you encounter any issues or have questions, create a new issue with detailed information including screenshots for UI-related problems.
 
+## 👨‍💻 Author
+
+**Jeet Patil** - [GitHub](https://github.com/Jeet-Patil)
+
 ---
 
-Built with ❤️ on Ethereum
+Built with ❤️ on Ethereum | Deployed on Vercel
